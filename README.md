@@ -1,8 +1,8 @@
-<h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/103486513-4cecbc80-4db3-11eb-89a0-fa155cbcdbda.png">
-  <br />
-  Introduction to Raspberry Pi
-</h1>	
+<img src="https://www.freepngdesign.com/content/uploads/images/raspberry-pi-logo-6328.png" width="144" align="right" hspace="0" />
+
+✨ &nbsp; Introduction to Raspberry Pi 🍓
+======
+
 
 #### A guide covering Raspberry Pi devices such as the Raspberry Pi 4 Model B and Raspberry Pi 400. Along with a wide variety of operating systems that you can install on your Raspberry Pi device. Also, learn about cool projects that you can build with your Raspberry Pi device.
 
